@@ -49,8 +49,7 @@ color: #FFFFFF;
 }
 
 .icon-products{
-    position: relative;
-    left: 171px;
+    padding-left: 171px;
 }
 
 .product-card{
