@@ -48,11 +48,11 @@ color: #FFFFFF;
     border: 0px;
 }
 
-.icon-products{
+/*.icon-products{
     position: relative;
     top: 32px;
     bottom: 32px;
-}
+}*/
 
 .product-card{
 /*position: absolute;
@@ -106,6 +106,8 @@ color: #FFFFFF;
 }
 
 .product-card-image{
+    /*position:relative;
+    top:402px;*/
     border-bottom-right-radius: 50%;
     border-bottom-left-radius: 50%;
 }
