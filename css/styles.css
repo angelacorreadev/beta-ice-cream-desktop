@@ -34,9 +34,11 @@ text-transform: uppercase;
 color: #FFFFFF;
 }
 
-/*.container{
-    width: 320px;
-}*/
+.container{
+    width: 1200px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
 
 
 .button-arrow{
